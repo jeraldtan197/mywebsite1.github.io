@@ -1,0 +1,79 @@
+<html>
+<head>
+    <body style="background-color:lightcyan;">
+        <h1>time of creation 18/4/2023 , 1728</h1>
+        <p>Instruction
+            <br>
+            1. Increase size of browser to 300 % by pressing control and + 
+            <br>
+            2. Have a friend/friends around                                                                                                              
+            <br>
+            3. Press the button at the bottom of the page when finished with everything , button name is "finished"
+        </p>
+
+        <input type="button" onclick="location.href='https://vt.tiktok.com/ZS87qE1pc/';" value="tap!" />  *tap back button after u are done
+        <br>
+        <br>
+        <br>
+        <br>
+        this is my favourite pic and hence now my whatsapp profile pic ♡
+        <br>
+        <img src="github/image/thumbnail.jpg" alt="pic" width="200" height="350">
+       <br>
+       <br>
+       <br>
+
+       - list of things we have done together before the holidays
+        <ul>
+            <li>west coast park</li>
+            <li>haw par villa</li>
+            <li>siloso beach</li>
+            <li>random bus tiktok thing</li>
+            <li>make our bracelet</li>
+            <li>bake choc muffins</li>
+            <li>art sci museum</li>
+            <li>national museum</li>
+            <li>jurong lake garden</li>
+            <li>chatuchak night market</li>
+            <li>mala</li>
+            <li>orto</li>
+            <li>hay diaries</li>
+        </ul>
+        
+        <img src="github/image/starbucks.jpg" alt="pic" width="300" height="350">
+        <br>
+        - my virgin try at starbucks , ended <b>REALLY</b> well and got me hooked 😑
+
+        <br>
+        <br>
+        <br>
+        <br>
+
+        the ultimate photo so far i mean theres one more taken at orchard but pg pg 
+        <br>
+        <img src="github/image/2.jpg" alt="pic" width="400" height="500">
+
+        <br> 
+        <br> 
+        <br>
+        <br>
+        babe this is the end of my little website that i have created. i am proud of how far we have gone together, regardless of whatever fights and disagreements we have, 
+        <br>
+        im glad that we are always able to bounce back and grow together. it isn't easy to handle me, i get that i may get abit irritating sometimes in a sense that i need reassurance, 
+        <br>
+        but i hope you understand my pov but obv if u have any issues i will he there to solve it for you or even better together. by the time u see this i am already probably cycling. 
+        <br>
+        ok thanks bye i love you ❤️❤️
+
+
+
+
+
+        
+    </body>
+</head>
+
+<br> 
+<br>
+<marquee>thanks for viewing</marquee>
+</html>
